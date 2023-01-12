@@ -1,0 +1,18 @@
+                        get_chessboard_size        lines_2          lines
+Chessboard_00451.png        (60, 60)                 90              150
+Chessboard_00601.png        (60, 60)                 90              150
+Chessboard_0511.png         (60, 60)                 90              150
+Chessboard_0541.png         (70, 70)                 90              150
+Chessboard_0631.png         (60, 60)                 95              150
+Chessboard_0481_1.png       (30, 30)                 80              120
+Chessboard_0481_0.png       (45, 45)                 80              150        (denoise: True)
+Chessboard_0481.png         (45, 45)                 80              150        (denoise: True)
+
+detect_edge = (15, 15)
+
+freqency_image:
+Chessboard_00451_1.png        (45, 45)               80              150     
+Chessboard_00451_2.png        (45, 45)               70              150     
+
+
+detect_edge = (130, 130)

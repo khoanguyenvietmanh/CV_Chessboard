@@ -1,0 +1,79 @@
+Chessboard_00451.png:
+    filtering_frequency_noise: False
+    denoise: False
+    thresh_edge: "(15, 15)"
+    thresh_lines: 150
+    thresh_board: "(60, 60)" 
+    thresh_lines_2: 90 
+    
+Chessboard_00601.png:
+    filtering_frequency_noise: False
+    denoise: False
+    thresh_edge: "(15, 15)"
+    thresh_lines: 150
+    thresh_board: "(60, 60)" 
+    thresh_lines_2: 90 
+    
+Chessboard_0511.png:
+    filtering_frequency_noise: False
+    denoise: False
+    thresh_edge: "(15, 15)"
+    thresh_lines: 150
+    thresh_board: "(60, 60)" 
+    thresh_lines_2: 90 
+    
+Chessboard_0541.png:
+    filtering_frequency_noise: False
+    denoise: False
+    thresh_edge: "(15, 15)"
+    thresh_lines: 150
+    thresh_board: "(70, 70)" 
+    thresh_lines_2: 90 
+    
+Chessboard_0631.png:
+    filtering_frequency_noise: False
+    denoise: False
+    thresh_edge: "(15, 15)"
+    thresh_lines: 150
+    thresh_board: "(60, 60)" 
+    thresh_lines_2: 95 
+    
+Chessboard_0481_1.png:
+    filtering_frequency_noise: False
+    denoise: False
+    thresh_edge: "(15, 15)"
+    thresh_lines: 120
+    thresh_board: "(30, 30)" 
+    thresh_lines_2: 80 
+    
+Chessboard_0481_0.png:
+    filtering_frequency_noise: False
+    denoise: True
+    thresh_edge: "(15, 15)"
+    thresh_lines: 150
+    thresh_board: "(45, 45)" 
+    thresh_lines_2: 80
+    
+Chessboard_0481.png:
+    filtering_frequency_noise: False
+    denoise: True
+    thresh_edge: "(15, 15)"
+    thresh_lines: 150
+    thresh_board: "(45, 45)" 
+    thresh_lines_2: 80
+    
+Chessboard_00451_1.png:
+    filtering_frequency_noise: True
+    denoise: True
+    thresh_edge: "(130, 130)"
+    thresh_lines: 150
+    thresh_board: "(45, 45)" 
+    thresh_lines_2: 80
+    
+Chessboard_00451_2.png:
+    filtering_frequency_noise: True
+    denoise: True
+    thresh_edge: "(130, 130)"
+    thresh_lines: 150
+    thresh_board: "(45, 45)" 
+    thresh_lines_2: 70
